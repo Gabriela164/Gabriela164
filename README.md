@@ -16,8 +16,8 @@ Passionate about fields such as Artificial Intelligence and Cybersecurity. My go
 * 🧠  I'm learning Angular and Javascript
 * 🤝  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
 
-### My skills:
-[![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,poweshell,py,react,ubuntu,visualstudio,vscode,windows,)](https://skillicons.dev)
+### 👨🏻‍💻 My skills:
+[![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,)](https://skillicons.dev)
 
 ### 📊 My Github Stats:
 <br/>
