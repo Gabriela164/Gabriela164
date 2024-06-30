@@ -1,5 +1,5 @@
-Hi 👋 My name is Gabriela López
-===============================
+<h1 align="center" style="color:#ff69b4;">¡Hi, I'm Gabriela López! 👋</h1>
+
 
 <!--- snake -->
 <div align="center">
@@ -17,7 +17,7 @@ Passionate about fields such as Artificial Intelligence and Cybersecurity. My go
 * 🤝  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
 
 ### 👨🏻‍💻 My skills:
-[![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,arch,bootstrap,cpp,git,r)](https://skillicons.dev)
 
 ### 📊 My Github Stats:
 <br/>
@@ -26,3 +26,6 @@ Passionate about fields such as Artificial Intelligence and Cybersecurity. My go
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
+
+### Contact me 
+
