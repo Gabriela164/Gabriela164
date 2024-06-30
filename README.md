@@ -1,44 +1,17 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-
-### :smiley_cat: I am a student at SMK Telkom Malang
-
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriela164&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&theme=tokyonight&layout=compact)
-
-🌱 I’m currently learning android in dicoding.com with kotlin
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=499&color=ED3FF4&background=4FFFF800&random=false&width=399&height=40&lines=Student+of+Computer+Science+;at+Faculty+of+Science%2C+UNAM.)](https://git.io/typing-svg)  
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
-------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
+### 📊 My Github Stats:
+<br/>
 
-Last Edited on: 21/08/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gabriela López Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
