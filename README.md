@@ -1,11 +1,11 @@
 <h1 align="center" style="color:#ff69b4;">¡Hi, I'm Gabriela López! 👋</h1>
 
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=200&color=F6C140&random=false&width=435&lines=Computer+Science+Student;At+Faculty+of+Science%2C+UNAM.)](https://git.io/typing-svg)
 
