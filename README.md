@@ -1,14 +1,13 @@
 <h1 align="center" style="color:#ff69b4;">¡Hi, I'm Gabriela López! 👽✨ </h1>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" width="950" height="250" />
-</p>
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=200&color=F6C140&random=false&width=435&lines=Computer+Science+Student;At+Faculty+of+Science%2C+UNAM" width="550">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" width="750" height="150" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=200&color=F6C140&random=false&width=435&lines=Computer+Science+Student;At+Faculty+of+Science%2C+UNAM" width="450">
 </div>
 
-## About me 
+## 👩🏻‍💻 About me 
 
 <img align="right" alt="GIF" height="250" src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" width="280" height=""/>
 Passionate about fields such as Artificial Intelligence and Cybersecurity. My goal is to enter</br>
@@ -21,7 +20,7 @@ the professional world with a strong desire to continue acquiring new knowledge 
 * ❤️‍🩹 I love cats and dogs, taking care of myself mentally and physically, as well as spending quality time with my family. 
 
 
-## 👨🏻‍💻 My skills:
+## 🛠️ My skills:
 [![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,arch,bootstrap,cpp,git,r)](https://skillicons.dev)
 
 ## 📊 My Github Stats:
