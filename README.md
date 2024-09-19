@@ -21,7 +21,10 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 
 ## 🛠️ My skills:
-[![My Skills](https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,arch,bootstrap,cpp,git,r)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c,debian,js,html,css,django,docker,flask,haskell,java,kali,latex,linux,maven,mysql,postgres,powershell,py,react,ubuntu,visualstudio,vscode,windows,arch,bootstrap,cpp,git,r" alt="My Skills" width="1000" height="150" />
+</a>
+
 
 ## 📊 My Github Stats:
 <br/>
