@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" width="750" height="150" />
+    alt="example" width="750" height="120" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=200&color=F6C140&random=false&width=435&lines=Computer+Science+Student;At+Faculty+of+Science%2C+UNAM" width="450">
 </div>
