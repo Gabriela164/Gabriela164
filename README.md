@@ -11,7 +11,7 @@
  Passionate about fields such as Artificial Intelligence and Cybersecurity. My goal is to enter
 the professional world with a strong desire to continue acquiring new knowledge and experiences that contribute to my ongoing growth.
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tmYzYwbmFndHZvYWZ4dXM3eTkydmowY2Y5ZnUybDBwczF3dWVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gaX7Jn5FVn0J2UMD4i/giphy.gif" width="380" height="240"/>
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tmYzYwbmFndHZvYWZ4dXM3eTkydmowY2Y5ZnUybDBwczF3dWVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gaX7Jn5FVn0J2UMD4i/giphy.gif" width="380" height="220"/>
 
 <p>  
   
