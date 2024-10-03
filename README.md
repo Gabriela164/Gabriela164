@@ -50,14 +50,21 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> MY GITHUB STATS:
-<br/>
 
-![Gabriela López Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<table border="1" align="center">
+<tr border="0">
+<td width="60%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=radical" />
+  <br></br>
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</td>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br>
+<td width="50%" align="center">
+  <img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+  </td>
+</tr>
+</table>
 
 
 <div align="center">
