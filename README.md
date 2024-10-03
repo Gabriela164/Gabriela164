@@ -13,15 +13,17 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 <div style="display:flex; justify-content:space-between">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm05bzZqNGtoODkxeDZtaXlvMWZlMzdtZXExdmx6dXJoZDd4dGx3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWXDXIyrkLtA17XfTI/giphy.gif" width="350" height="360">
-
-* 🌍  I'm based in México.
+<br>
   
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Zxa3Bia2YwbjdmNWVteHVpZzd5OTNmcDZ6MWtqZWg2cjJ4OXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="250" height="250">
+
+<br>
+  
+* 🌍  I'm based in México.
 * ✉️  You can contact me at [gabriela\_164@ciencias.unam.mx](mailto:gabriela_164@ciencias.unam.mx)
 * 🧠  I'm learning Angular and Javascript
 * 🤝  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
 * ❤️‍🩹 I love cats and dogs, taking care of myself mentally and physically, as well as spending quality time with my family. 
-
 </div>
 
 
