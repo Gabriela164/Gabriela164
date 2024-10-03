@@ -49,7 +49,7 @@ the professional world with a strong desire to continue acquiring new knowledge 
   <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git&theme=dark" width="1000" height="60"/>
 
 
-## 📊 MY GITHUB STATS:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> MY GITHUB STATS:
 <br/>
 
 ![Gabriela López Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
