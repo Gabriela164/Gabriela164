@@ -11,21 +11,16 @@
  Passionate about fields such as Artificial Intelligence and Cybersecurity. My goal is to enter
 the professional world with a strong desire to continue acquiring new knowledge and experiences that contribute to my ongoing growth.
 
-<div style="display:flex; justify-content:space-between">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tmYzYwbmFndHZvYWZ4dXM3eTkydmowY2Y5ZnUybDBwczF3dWVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gaX7Jn5FVn0J2UMD4i/giphy.gif" width="380" height="240"/>
 
-<br>
-  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Zxa3Bia2YwbjdmNWVteHVpZzd5OTNmcDZ6MWtqZWg2cjJ4OXV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="250" height="250">
-
-<br>
+<p>  
   
 * 🌍  I'm based in México.
 * ✉️  You can contact me at [gabriela\_164@ciencias.unam.mx](mailto:gabriela_164@ciencias.unam.mx)
 * 🧠  I'm learning Angular and Javascript
 * 🤝  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
 * ❤️‍🩹 I love cats and dogs, taking care of myself mentally and physically, as well as spending quality time with my family. 
-</div>
-
+</p>
 
 
 
@@ -42,16 +37,16 @@ the professional world with a strong desire to continue acquiring new knowledge 
 * **DATABASE**
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" width="1000" height="60" />
 
-* **SISTEMAS OPERATIVOS**
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,powershell&theme=dark&perline=3" width="1000" height="120" />
+* **OPERATING SYSTEMS**
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,powershell&theme=dark" width="1000" height="60" />
 
 * **PROGRAMMING LANGUAGES**
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,r,c,haskell&theme=dark&perline=3"  width="1000" height="120"/>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,r,c,haskell&theme=dark"  width="1000" height="60"/>
   
 
 
 * **WORK TOOLS**
-  <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git&theme=dark&perline=3" width="1000" height="120"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git&theme=dark" width="1000" height="60"/>
 
 
 ## 📊 MY GITHUB STATS:
