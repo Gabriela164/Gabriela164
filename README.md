@@ -30,14 +30,14 @@ the professional world with a strong desire to continue acquiring new knowledge 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  MY SKILLS:
 
 * **BACKEND**
-  <img src="https://skillicons.dev/icons?i=django,flask,kotlin&theme=light" width="1000" height="60" />
+  <img src="https://skillicons.dev/icons?i=django,flask,kotlin&theme=light" width="1000" height="57" />
 
 * **FRONTED**
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark" width="1000" height="55" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark" width="1000" height="57" />
 
 
 * **DATABASE**
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" width="1000" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" width="1000" height="57" />
 
 * **OPERATING SYSTEMS**
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,powershell&theme=dark" width="1000" height="60" />
@@ -59,11 +59,11 @@ the professional world with a strong desire to continue acquiring new knowledge 
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gabriela164&show_icons=true&theme=radical" />
   <br></br>
-  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gabriela164&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </td>
 
 <td width="50%" align="center">
-  <img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
+  <img alt="Gabriela López Diego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela164&langs_count=8&count_private=false&layout=compact&theme=radical&hide_border=false" /> 
   </td>
 </tr>
 </table>
