@@ -4,7 +4,9 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=200&color=F6C140&random=false&width=435&lines=Computer+Science+Student;At+Faculty+of+Science%2C+UNAM" width="450">
+  <br>
 </div>
+
 
 ## 👩🏻‍💼 ABOUT ME 
 
@@ -82,9 +84,17 @@ the professional world with a strong desire to continue acquiring new knowledge 
 </p>
 
 
+
 <!--profile visit count-->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Gabriela164&icon=3&color=6)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+<a href="https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc?si=1f6217c41f944e47">
+  <img src="https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify" width="100" height="30"/>
+</a>
+</div>
   
 </div>
