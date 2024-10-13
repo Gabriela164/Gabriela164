@@ -17,10 +17,10 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 <p>  
   
-* 🌍  I'm based in México.
+* 🇲🇽  I'm based in México.
 * ✉️  You can contact me at [gabriela\_164@ciencias.unam.mx](mailto:gabriela_164@ciencias.unam.mx)
 * 🧠  I'm learning Angular and Javascript
-* 🤝  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
+* 🤝🏻  I'm open to collaborating on Security Research Projects, AI Model Development, Web Application Development, Database Management, Backend Security and Authentication,etc.
 * ❤️‍🩹 I love cats and dogs, taking care of myself mentally and physically, as well as spending quality time with my family. 
 </p>
 
@@ -48,7 +48,7 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 
 * **WORK TOOLS**
-  <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git&theme=dark" width="1000" height="60"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git,idea&theme=dark" width="1000" height="60"/>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> MY GITHUB STATS:
@@ -74,7 +74,7 @@ the professional world with a strong desire to continue acquiring new knowledge 
 </div>
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  Connect With Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" >  Connect With Me
 
 <!--icons and links-->
 <p align="left">
