@@ -85,19 +85,17 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 
 
+## 🦋 More about me 🦋
+
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Gabriela164&icon=3&color=6)](https://visitcount.itsvg.in)
-
-<!--
-<div align="center">
-<a href="https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc?si=1f6217c41f944e47">
-  <img src="https://img.shields.io/badge/spotify-black?style=flat-square&logo=spotify" width="100" height="30"/>
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Gabriela164&icon=3&color=6" alt="Contador de visitas" width="200" height="30">
 </a>
-</div>
--->
+  
+<br>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z)
+<!--Status spotify-->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z" width="250" height="320">
   
 </div>
