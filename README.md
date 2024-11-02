@@ -74,18 +74,7 @@ the professional world with a strong desire to continue acquiring new knowledge 
 </div>
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" >  Connect With Me
-
-<!--icons and links-->
-<p align="left">
-<a href="https://discord.com/users/1141448079644561538" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/gabriela-l%C3%B3pez-diego-8479aa316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href = 'https://www.github.com/Gabriela164'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-</p>
-
-
-
-## 🦋 More about me 🦋
+## ✨ More about me 
 
 <!--profile visit count-->
 <div align="center">
@@ -96,6 +85,17 @@ the professional world with a strong desire to continue acquiring new knowledge 
 <br>
 
 <!--Status spotify-->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z" width="250" height="320">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z" width="280" height="330">
   
 </div>
+
+<!--Connect with me-->
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" >  Connect With Me
+
+<!--icons and links-->
+<p align="left">
+<a href="https://discord.com/users/1141448079644561538" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/gabriela-l%C3%B3pez-diego-8479aa316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href = 'https://www.github.com/Gabriela164'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+</p>
+
