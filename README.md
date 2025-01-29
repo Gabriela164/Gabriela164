@@ -76,18 +76,17 @@ the professional world with a strong desire to continue acquiring new knowledge 
 
 ## ✨ More about me 
 
-<!--profile visit count-->
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Gabriela164&icon=3&color=6" alt="Contador de visitas" width="200" height="30">
-</a>
-  
-<br>
-
-<!--Status spotify-->
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z" width="280" height="330">
-  
+    <!--profile visit count-->
+    <img src="https://profile-counter.glitch.me/Gabriela164/count.svg?"  />
 </div>
+
+<div align="center">
+    <!--Status spotify-->
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9a8xtjclefye0jdqhut9udb6z" width="280" height="330">
+</div>
+
+###
 
 <!--Connect with me-->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" >  Connect With Me
