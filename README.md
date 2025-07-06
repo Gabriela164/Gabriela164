@@ -30,26 +30,35 @@ the professional world with a strong desire to continue acquiring new knowledge 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  MY SKILLS:
 
 * **BACKEND**
-  <img src="https://skillicons.dev/icons?i=django,flask,kotlin&theme=light" width="1000" height="57" />
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=django,flask,kotlin&theme=light" width="250" />
+  </div>
 
 * **FRONTED**
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark" width="1000" height="57" />
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap&theme=dark" width="420" />
+  </div>
 
 
 * **DATABASE**
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" width="1000" height="57" />
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" width="150"/>
+  </div>
 
 * **OPERATING SYSTEMS**
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,powershell&theme=dark" width="1000" height="60" />
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,powershell&theme=dark"  width="500"/>
+  </div>
 
 * **PROGRAMMING LANGUAGES**
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,r,c,haskell&theme=dark"  width="1000" height="60"/>
-  
-
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,r,c,haskell&theme=dark"   width="500"/>
+  </div>
 
 * **WORK TOOLS**
-  <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git,idea&theme=dark" width="1000" height="60"/>
-
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=androidstudio,docker,latex,maven,vscode,git,idea&theme=dark" width="500" />
+  </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> MY GITHUB STATS:
 
